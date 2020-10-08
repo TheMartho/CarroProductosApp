@@ -21,6 +21,7 @@
             ></ImageView>
         <TextView
             android:text="SHOPPING"
+            android:id="@+id/titulo_toolbar"
             android:layout_gravity="center"
             android:textStyle="bold"
             android:layout_marginLeft="@dimen/margin_left_titulo_app"
